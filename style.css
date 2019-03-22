@@ -19,7 +19,7 @@ footer{
     border-top: 8px solid #4aaaa5;
     border-bottom: 20px solid #666666;
     color:#ffffff;
-    position: fixed;
+    position: relative;
     left: 0;
     bottom: 0;
     width: 100%;
